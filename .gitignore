@@ -17,8 +17,6 @@ pip-delete-this-directory.txt
 .vercel/
 .netlify/
 
-.env
-
 data/
 /data/
 
